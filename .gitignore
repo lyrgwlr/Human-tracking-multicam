@@ -6,3 +6,4 @@ image
 picked
 model_data/model_final.pkl
 model_data/yolo.h5
+model_data/model.pth.tar-60

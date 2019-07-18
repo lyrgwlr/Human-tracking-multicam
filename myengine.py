@@ -15,7 +15,7 @@ class REID:
                 pretrained=True,
                 use_gpu = True
             )
-        torchreid.utils.load_pretrained_weights(self.model, '/home/dell/wlr/deep-person-reid/log/resnet50/model.pth.tar-60')
+        torchreid.utils.load_pretrained_weights(self.model, 'model_data/model.pth.tar-60')
         self.model = self.model.cuda()
         self.optimizer = torchreid.optim.build_optimizer(
                 self.model,
