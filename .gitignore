@@ -4,6 +4,5 @@
 videos
 image
 picked
-model_data/mars-small128.pb
 model_data/model_final.pkl
 model_data/yolo.h5
