@@ -17,5 +17,9 @@ Therefore, my work is making a little improvement of [deep_sort_yolov3](https://
     OpenCV
     Pillow
     TensorFlow(>=1.4.0)
- 
+  
+3. Follow the Installation part of [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) to install torchreid.  
+
+4. 
+
 
