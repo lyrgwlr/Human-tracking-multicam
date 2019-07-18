@@ -8,8 +8,14 @@ The tracking result of [deep_sort_yolov3](https://github.com/Qidian213/deep_sort
 Therefore, my work is making a little improvement of [deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3), and fusing different track_ids that belong to the same person using parts of [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid).    
   
 ## Installation  
-
-
+1. Download YOLOv3 or tiny_yolov3 weights from [YOLO website](http://pjreddie.com/darknet/yolo/).Then convert the Darknet YOLO model to a Keras model. Or use what [deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) had converted https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view?usp=sharing (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.  
+  
+2. Install the Dependencies followed:
+    NumPy
+    sklean
+    OpenCV
+    Pillow
+    TensorFlow(>=1.4.0)
 
  
 
