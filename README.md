@@ -20,6 +20,6 @@ Therefore, my work is making a little improvement of [deep_sort_yolov3](https://
   
 3. Follow the Installation part of [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) to install torchreid.  
 
-4. Download the torchreid model from [Baidu Driver](https://pan.baidu.com/s/1Y2eXyPzDmrUgetc1aGUd0A) (password: h09w) and put it into model_data folder.  
+4. Download the torchreid model from [google drive](https://drive.google.com/open?id=15Ayri_sHtrctJ1Zb8qERjvdi66y6QaI4) [Baidu Driver](https://pan.baidu.com/s/1Y2eXyPzDmrUgetc1aGUd0A) (password: h09w) and put it into model_data folder.  
 
 
